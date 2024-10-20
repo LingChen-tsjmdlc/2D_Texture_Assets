@@ -12,3 +12,4 @@
   - GrassAndFlower  => 草地和花
   - Wall            => 墙
   - Not_Pass        => 废弃的贴图
+  - bed             => 床
